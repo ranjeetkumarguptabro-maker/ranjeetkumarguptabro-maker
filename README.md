@@ -72,16 +72,13 @@
 
 ---
 
-## 🚀 Most Expert in These Languages
+## 💻 Core Languages & Coding Skills
 
 <div align="center">
 
-| Language | Core Focus & Engineering Domain | Expertise Level |
-|:---|:---|:---:|
-| **Python** | Cloud automation, health monitoring, AWS SDK & preflight testing | `Advanced (95%)` |
-| **Go** | Cloud-native microservices, systems architecture & Kubernetes tooling | `Advanced (85%)` |
-| **JavaScript** | Fullstack web telemetry dashboards, reactive UI & API integrations | `Proficient (80%)` |
-| **CSS / HTML** | Modern responsive architecture, cyberpunk aesthetics & pixel layout | `Proficient (80%)` |
+<a href="https://ranjeetkumarguptabro-maker.github.io/ranjeet-contribution-workplace/">
+  <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/coding-skills-dashboard.png" alt="Modern Coding Skills Dashboard" width="100%">
+</a>
 
 </div>
 
@@ -97,13 +94,6 @@
       <p><b>Tech:</b> <code>AWS</code> · <code>Kubernetes EKS</code> · <code>Terraform</code> · <code>Docker</code> · <code>CI/CD</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/ranjeetkumarguptabro-maker/cloudcost-pilot">cloudcost-pilot</a></h3>
-      <p>Cloud cost monitoring and infrastructure budget autopilot for AWS cloud workloads.</p>
-      <p><b>Tech:</b> <code>Python</code> · <code>AWS API</code> · <code>FinOps</code> · <code>Resource Optimization</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <h3>🛡️ <a href="https://github.com/ranjeetkumarguptabro-maker/dataops-guardian">dataops-guardian</a></h3>
       <p>Python automation toolkit for health checks, preflight validation, infrastructure testing, and CI pipelines.</p>
       <p><b>Tech:</b> <code>Python</code> · <code>CI/CD</code> · <code>Health Monitoring</code> · <code>Preflight Checks</code></p>
@@ -113,20 +103,13 @@
 
 ---
 
-## 📊 Activity & Stress Breakdown (360° / 90° Polar Radar)
+## 📊 GitHub Activity Status & Radar Metrics
 
 <div align="center">
 
-```
-             [ 90° VERTICAL - COMMITS ]
-                  ▲ (322+ Commits · 94% High Stress)
-                  │
-[ 180° STARS ] ◄──┼──► [ 360° PULL REQUESTS ]
- (12 Stars · 38%) │     (28 PRs · 68% Medium)
-                  ▼
-             [ 270° VERTICAL - FORKS ]
-                  (16 Forks · 48% Moderate)
-```
+<a href="https://ranjeetkumarguptabro-maker.github.io/ranjeet-contribution-workplace/">
+  <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/github-metrics-radar.png" alt="GitHub Metrics Radar Infographic" width="100%">
+</a>
 
 </div>
 
