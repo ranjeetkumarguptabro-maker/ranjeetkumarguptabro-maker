@@ -20,15 +20,6 @@
   <i>DevOps Engineer | Computer Systems Student at Riga Technical University | Docker • Kubernetes • AWS • CI/CD • Linux • Python • Go | Building & Automating Cloud Infrastructure</i>
 </p>
 
-<br>
-
-<!-- ACTION BADGE -->
-<p>
-  <a href="https://ranjeetkumarguptabro-maker.github.io/ranjeet-contribution-workplace/">
-    <img src="https://img.shields.io/badge/LAUNCH-LIVE%20INTERACTIVE%20DASHBOARD-00C7E8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open Live Dashboard">
-  </a>
-</p>
-
 <!-- ANIMATED PIXEL ART DEVELOPER WORKSTATION -->
 <a href="https://ranjeetkumarguptabro-maker.github.io/ranjeet-contribution-workplace/">
   <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/workplace-contribution.gif" alt="Ranjeet's Contribution Workplace" width="100%">
@@ -47,26 +38,24 @@
 <div align="center">
 
 <!-- Row 1: Core Systems & Cloud -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" title="Git"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes" title="Kubernetes"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="42" alt="AWS" title="Amazon Web Services"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="48" alt="Terraform" title="Terraform"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python"></a>
-
-<br><br>
-
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" title="Git"></a>&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker"></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes" title="Kubernetes"></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="36" alt="AWS" title="Amazon Web Services"></a>&nbsp;&nbsp;
+<a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="42" alt="Terraform" title="Terraform"></a>&nbsp;&nbsp;
+<a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux"></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" title="Python"></a>
+<br>
 <!-- Row 2: Observability, CI/CD, Languages & Testing -->
-<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" title="Go Programming Language"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="48" alt="Grafana" title="Grafana"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="48" alt="Prometheus" title="Prometheus"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48" alt="Elasticsearch" title="Elasticsearch"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="48" alt="Kibana" title="Kibana"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.pytest.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="Pytest" title="Pytest"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions" title="CI/CD Pipelines"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" alt="NGINX" title="NGINX"></a>
+<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="42" alt="Go" title="Go Programming Language"></a>&nbsp;&nbsp;
+<a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42" alt="Grafana" title="Grafana"></a>&nbsp;&nbsp;
+<a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="42" alt="Prometheus" title="Prometheus"></a>&nbsp;&nbsp;
+<a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="42" alt="Elasticsearch" title="Elasticsearch"></a>&nbsp;&nbsp;
+<a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="42" alt="Kibana" title="Kibana"></a>&nbsp;&nbsp;
+<a href="https://docs.pytest.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="42" alt="Pytest" title="Pytest"></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" title="CI/CD Pipelines"></a>&nbsp;&nbsp;
+<a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42" alt="NGINX" title="NGINX"></a>
 
 </div>
 
@@ -93,28 +82,26 @@
 
 ## 📜 Certifications & Learning
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" width="280" alt="Introduction to Kubernetes (LFS158)">
+        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" width="200" alt="Introduction to Kubernetes (LFS158)">
       </a>
       <br>
-      <b>Introduction to Kubernetes (LFS158)</b><br>
-      <i>The Linux Foundation</i><br>
-      <small>ID: <code>LF-9zgw8gacep</code> &bull; Completed: Nov 14, 2026</small>
+      <b>Introduction to Kubernetes (LFS158)</b>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <a href="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" width="280" alt="AWS Cloud Practitioner Essentials">
+        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" width="200" alt="AWS Cloud Practitioner Essentials">
       </a>
       <br>
-      <b>AWS Cloud Practitioner Essentials</b><br>
-      <i>Amazon Web Services (AWS)</i><br>
-      <small>AWS Training &amp; Certification &bull; Completed: Nov 14, 2026</small>
+      <b>AWS Cloud Practitioner Essentials</b>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -123,14 +110,14 @@
 <div align="center">
 
 <a href="https://github.com/ranjeetkumarguptabro-maker">
-  <img src="https://img.shields.io/badge/LIVE%20GITHUB%20COMMITS-322%2B%20CONTRIBUTIONS-00C7E8?style=for-the-badge&logo=github&logoColor=white" alt="Live GitHub Commits">
+  <img src="https://img.shields.io/badge/LIVE%20GITHUB%20COMMITS-322%2B%20CONTRIBUTIONS-00C7E8?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Live GitHub Commits">
 </a>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumarguptabro-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=091428" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumarguptabro-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=091428" height="135" alt="GitHub Stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumarguptabro-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=091428&hide=swift,java,c" height="165" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumarguptabro-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=091428&hide=swift,java,c" height="135" alt="Top Languages">
 
 </div>
 
