@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<!-- Row 1: Core Systems & Cloud (Spacious & Bigger Logos) -->
+<!-- Row 1: Core Systems & Cloud -->
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" title="Git"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -72,16 +72,16 @@
 
 ---
 
-## 💻 Most Known & Core Languages
+## 🚀 Most Expert in These Languages
 
 <div align="center">
 
-| Language | Primary Focus & Domain | Proficiency |
+| Language | Core Focus & Engineering Domain | Expertise Level |
 |:---|:---|:---:|
-| **Python** | Cloud automation, health checks, AWS SDK, testing & scripting | `95%` |
-| **Go** | Cloud-native microservices, systems architecture & Kubernetes tooling | `85%` |
-| **JavaScript** | Fullstack web dashboards, interactive UIs & API integrations | `80%` |
-| **CSS / HTML** | Modern responsive design, cyberpunk aesthetics & pixel art layout | `80%` |
+| **Python** | Cloud automation, health monitoring, AWS SDK & preflight testing | `Advanced (95%)` |
+| **Go** | Cloud-native microservices, systems architecture & Kubernetes tooling | `Advanced (85%)` |
+| **JavaScript** | Fullstack web telemetry dashboards, reactive UI & API integrations | `Proficient (80%)` |
+| **CSS / HTML** | Modern responsive architecture, cyberpunk aesthetics & pixel layout | `Proficient (80%)` |
 
 </div>
 
@@ -113,7 +113,7 @@
 
 ---
 
-## 📊 Activity & Stress Breakdown (360° / 90° Multi-Axis)
+## 📊 Activity & Stress Breakdown (360° / 90° Polar Radar)
 
 <div align="center">
 
@@ -127,13 +127,6 @@
              [ 270° VERTICAL - FORKS ]
                   (16 Forks · 48% Moderate)
 ```
-
-| Axis / Angle | Metric | Stress Load | Impact |
-|:---|:---:|:---:|:---|
-| **90° Vertical (North)** | **322+ Commits** | `94%` (High) | Daily infrastructure automation scripts & continuous updates |
-| **360° / 0° Horizontal (East)** | **28 Pull Requests** | `68%` (Medium) | Tested and reviewed feature merges via CI/CD pipelines |
-| **270° Vertical (South)** | **16 Forks** | `48%` (Moderate) | Cloud architecture experiments & lab contributions |
-| **180° Horizontal (West)** | **12 Stars** | `38%` (Growing) | Developer recognition across systems & DevOps tooling |
 
 </div>
 
@@ -178,7 +171,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumarguptabro-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=091428" height="165" alt="GitHub Stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumarguptabro-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=091428" height="165" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumarguptabro-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=091428&hide=swift,java,c" height="165" alt="Top Languages">
 
 </div>
 
