@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="100%" height="100%">
+  <defs>
+    <!-- Card Drop Shadows with Respective Color Glows -->
+    <filter id="shadowNorth" x="-20%" y="-20%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#ec4899" flood-opacity="0.32" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.08" />
+    </filter>
+    <filter id="shadowEast" x="-20%" y="-20%" width="160%" height="150%">
+      <feDropShadow dx="12" dy="8" stdDeviation="16" flood-color="#22c55e" flood-opacity="0.32" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.08" />
+    </filter>
+    <filter id="shadowSouth" x="-20%" y="-20%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#f97316" flood-opacity="0.32" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.08" />
+    </filter>
+    <filter id="shadowWest" x="-20%" y="-20%" width="160%" height="150%">
+      <feDropShadow dx="-12" dy="8" stdDeviation="16" flood-color="#3b82f6" flood-opacity="0.32" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.08" />
+    </filter>
+    <filter id="centerHaloGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="octocatShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.2" />
+    </filter>
+    <filter id="rainbowGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Rainbow Conic / Linear Gradient for Outer Ring -->
+    <linearGradient id="rainbowGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="30%" stop-color="#8b5cf6" />
+      <stop offset="70%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="rainbowGrad2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="40%" stop-color="#10b981" />
+      <stop offset="70%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <!-- Organic Kite Multi-stop Radiant Gradient -->
+    <linearGradient id="kiteMesh" x1="25%" y1="5%" x2="75%" y2="95%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.92" />
+      <stop offset="28%" stop-color="#c084fc" stop-opacity="0.88" />
+      <stop offset="58%" stop-color="#34d399" stop-opacity="0.88" />
+      <stop offset="82%" stop-color="#fb923c" stop-opacity="0.90" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.92" />
+    </linearGradient>
+
+    <!-- Center White Badge Glow Aura -->
+    <radialGradient id="octoAura" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="85%" stop-color="#f472b6" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .axis-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 700; }
+    .val-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 800; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 800; }
+    .kite-shape {
+      animation: pulseKite 4s ease-in-out infinite alternate;
+      transform-origin: 480px 320px;
+    }
+    @keyframes pulseKite {
+      0% { transform: scale(0.985); }
+      100% { transform: scale(1.015); }
+    }
+  </style>
+
+  <!-- Pristine White Rounded Card Base matching Reference -->
+  <rect width="100%" height="100%" rx="28" fill="#ffffff" stroke="#f1f5f9" stroke-width="1.5" />
+
+  <!-- 1. Concentric Circular Lavender Radar Grid Rings (Center: 480, 320) -->
+  <g stroke="#c4b5fd" stroke-width="1.2" fill="none" opacity="0.65">
+    <circle cx="480" cy="320" r="58" />
+    <circle cx="480" cy="320" r="102" />
+    <circle cx="480" cy="320" r="146" />
+    <circle cx="480" cy="320" r="190" />
+  </g>
+
+  <!-- 2. Radial Dashed Compass Rays (8 divisions) -->
+  <g stroke="#c4b5fd" stroke-width="1.1" stroke-dasharray="3, 5" opacity="0.55">
+    <!-- 45° Diagonal Rays -->
+    <line x1="480" y1="320" x2="628" y2="172" />
+    <line x1="480" y1="320" x2="628" y2="468" />
+    <line x1="480" y1="320" x2="332" y2="468" />
+    <line x1="480" y1="320" x2="332" y2="172" />
+  </g>
+
+  <!-- Intersecting Dot Markers along 45° Diagonals -->
+  <g fill="#a78bfa" opacity="0.75">
+    <!-- Top-Right Diagonal Dots -->
+    <circle cx="521" cy="279" r="2.2" />
+    <circle cx="552" cy="248" r="2.2" />
+    <circle cx="583" cy="217" r="2.2" />
+    <circle cx="614" cy="186" r="2.2" />
+    <!-- Bottom-Right Diagonal Dots -->
+    <circle cx="521" cy="361" r="2.2" />
+    <circle cx="552" cy="392" r="2.2" />
+    <circle cx="583" cy="423" r="2.2" />
+    <circle cx="614" cy="454" r="2.2" />
+    <!-- Bottom-Left Diagonal Dots -->
+    <circle cx="439" cy="361" r="2.2" />
+    <circle cx="408" cy="392" r="2.2" />
+    <circle cx="377" cy="423" r="2.2" />
+    <circle cx="346" cy="454" r="2.2" />
+    <!-- Top-Left Diagonal Dots -->
+    <circle cx="439" cy="279" r="2.2" />
+    <circle cx="408" cy="248" r="2.2" />
+    <circle cx="377" cy="217" r="2.2" />
+    <circle cx="346" cy="186" r="2.2" />
+  </g>
+
+  <!-- 3. Outer Glowing Rainbow Ring (Radius: 226) -->
+  <g filter="url(#rainbowGlow)" fill="none" stroke-width="3">
+    <!-- Top Semi-Circle Arc -->
+    <path d="M 254 320 A 226 226 0 0 1 706 320" stroke="url(#rainbowGrad1)" />
+    <!-- Bottom Semi-Circle Arc -->
+    <path d="M 706 320 A 226 226 0 0 1 254 320" stroke="url(#rainbowGrad2)" />
+  </g>
+
+  <!-- 4. The 4 Colored Cardinal Axis Lines -->
+  <!-- North Purple Axis -->
+  <line x1="480" y1="320" x2="480" y2="152" stroke="#6366f1" stroke-width="4.5" stroke-linecap="round" />
+  <!-- East Green Axis -->
+  <line x1="480" y1="320" x2="648" y2="320" stroke="#22c55e" stroke-width="4.5" stroke-linecap="round" />
+  <!-- South Orange Axis -->
+  <line x1="480" y1="320" x2="480" y2="466" stroke="#f97316" stroke-width="4.5" stroke-linecap="round" />
+  <!-- West Blue Axis -->
+  <line x1="480" y1="320" x2="310" y2="320" stroke="#3b82f6" stroke-width="4.5" stroke-linecap="round" />
+
+  <!-- 5. Organic 4-Point Curved Rainbow Kite Polygon -->
+  <!-- Vertices: North (480, 154), East (595, 320), South (480, 412), West (390, 320) -->
+  <g class="kite-shape">
+    <path d="M 480 154
+             Q 525 250 595 320
+             Q 525 365 480 412
+             Q 442 360 390 320
+             Q 442 248 480 154 Z"
+          fill="url(#kiteMesh)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          stroke-linejoin="round"
+          filter="url(#centerHaloGlow)" />
+  </g>
+
+  <!-- 6. Axis Endpoint Dumbbell / Concentric Glowing Rings -->
+  <!-- North Purple Nodes (Under North Card) -->
+  <circle cx="480" cy="162" r="9.5" fill="#ffffff" stroke="#6366f1" stroke-width="3.5" />
+  <circle cx="480" cy="146" r="6.5" fill="#ffffff" stroke="#6366f1" stroke-width="3" />
+  <circle cx="480" cy="146" r="2.5" fill="#6366f1" />
+
+  <!-- East Green Nodes (Near East Card) -->
+  <circle cx="595" cy="320" r="5" fill="#22c55e" />
+  <circle cx="648" cy="320" r="9.5" fill="#ffffff" stroke="#22c55e" stroke-width="3.5" />
+  <circle cx="648" cy="320" r="3.5" fill="#22c55e" />
+
+  <!-- South Orange Nodes (Above South Card) -->
+  <circle cx="480" cy="412" r="5" fill="#f97316" />
+  <circle cx="480" cy="466" r="9.5" fill="#ffffff" stroke="#f97316" stroke-width="3.5" />
+  <circle cx="480" cy="466" r="3.5" fill="#f97316" />
+
+  <!-- West Blue Nodes (Near West Card) -->
+  <circle cx="390" cy="320" r="5" fill="#3b82f6" />
+  <circle cx="310" cy="320" r="9.5" fill="#ffffff" stroke="#3b82f6" stroke-width="3.5" />
+  <circle cx="310" cy="320" r="3.5" fill="#3b82f6" />
+
+  <!-- 7. Center GitHub Octocat Badge with Glowing Halo -->
+  <circle cx="480" cy="320" r="44" fill="url(#octoAura)" />
+  <circle cx="480" cy="320" r="34" fill="#ffffff" filter="url(#octocatShadow)" />
+  <!-- GitHub Octocat Silhouette -->
+  <g transform="translate(460, 300) scale(1.68)">
+    <path fill="#0f172a" fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+  </g>
+
+  <!-- 8. THE 4 CARDINAL NODE CARDS -->
+
+  <!-- CARD 1: NORTH - 90° Commits (Pink Pill 94%) -->
+  <g filter="url(#shadowNorth)">
+    <!-- White Card Base -->
+    <rect x="360" y="38" width="240" height="80" rx="20" fill="#ffffff" stroke="#f1f5f9" stroke-width="1.5" />
+    <!-- Icon Container Square -->
+    <rect x="374" y="52" width="52" height="52" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+    <!-- Code </> Icon -->
+    <text x="400" y="85" font-family="-apple-system, BlinkMacSystemFont, monospace" font-size="20" font-weight="800" fill="#0f172a" text-anchor="middle">&lt;/&gt;</text>
+    <!-- Degree Label -->
+    <text x="440" y="68" class="axis-label" font-size="13" fill="#475569">90°</text>
+    <!-- Value -->
+    <text x="440" y="96" class="val-text" font-size="25" fill="#0f172a">322+</text>
+    <!-- Pill (94%) -->
+    <rect x="522" y="60" width="64" height="34" rx="17" fill="#ffe4e6" stroke="#fecdd3" stroke-width="1" />
+    <text x="554" y="83" class="pill-text" font-size="15" fill="#e11d48" text-anchor="middle">94%</text>
+  </g>
+
+  <!-- CARD 2: EAST - 360° Pull Requests (Amber Pill 68%) -->
+  <g filter="url(#shadowEast)">
+    <!-- White Card Base -->
+    <rect x="664" y="280" width="236" height="80" rx="20" fill="#ffffff" stroke="#f1f5f9" stroke-width="1.5" />
+    <!-- Icon Container Square -->
+    <rect x="678" y="294" width="52" height="52" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+    <!-- Pull Request Branches Icon -->
+    <g transform="translate(692, 308) scale(1.15)">
+      <circle cx="5" cy="5" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <circle cx="17" cy="19" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <circle cx="17" cy="5" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <path d="M 5 8 L 5 19" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round" />
+      <path d="M 17 8 L 17 16" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round" />
+      <path d="M 5 13 Q 5 19 14 19" fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linecap="round" />
+    </g>
+    <!-- Degree Label -->
+    <text x="744" y="310" class="axis-label" font-size="13" fill="#475569">360°</text>
+    <!-- Value -->
+    <text x="744" y="338" class="val-text" font-size="25" fill="#0f172a">28</text>
+    <!-- Pill (68%) -->
+    <rect x="800" y="302" width="64" height="34" rx="17" fill="#fef3c7" stroke="#fde68a" stroke-width="1" />
+    <text x="832" y="325" class="pill-text" font-size="15" fill="#d97706" text-anchor="middle">68%</text>
+  </g>
+
+  <!-- CARD 3: SOUTH - 270° Forks (Blue Pill 48%) -->
+  <g filter="url(#shadowSouth)">
+    <!-- White Card Base -->
+    <rect x="364" y="504" width="232" height="80" rx="20" fill="#ffffff" stroke="#f1f5f9" stroke-width="1.5" />
+    <!-- Icon Container Square -->
+    <rect x="378" y="518" width="52" height="52" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+    <!-- Fork Icon -->
+    <g transform="translate(393, 532) scale(1.15)">
+      <circle cx="5" cy="5" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <circle cx="17" cy="5" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <circle cx="11" cy="19" r="2.8" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <path d="M 5 8 Q 5 13 11 14 L 11 16" fill="none" stroke="#0f172a" stroke-width="1.8" />
+      <path d="M 17 8 Q 17 13 11 14" fill="none" stroke="#0f172a" stroke-width="1.8" />
+    </g>
+    <!-- Degree Label -->
+    <text x="444" y="534" class="axis-label" font-size="13" fill="#475569">270°</text>
+    <!-- Value -->
+    <text x="444" y="562" class="val-text" font-size="25" fill="#0f172a">16</text>
+    <!-- Pill (48%) -->
+    <rect x="502" y="526" width="64" height="34" rx="17" fill="#dbeafe" stroke="#bfdbfe" stroke-width="1" />
+    <text x="534" y="549" class="pill-text" font-size="15" fill="#2563eb" text-anchor="middle">48%</text>
+  </g>
+
+  <!-- CARD 4: WEST - 180° Stars (Cyan Pill 38%) -->
+  <g filter="url(#shadowWest)">
+    <!-- White Card Base -->
+    <rect x="60" y="280" width="236" height="80" rx="20" fill="#ffffff" stroke="#f1f5f9" stroke-width="1.5" />
+    <!-- Icon Container Square -->
+    <rect x="74" y="294" width="52" height="52" rx="14" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.2" />
+    <!-- Star Outline Icon -->
+    <g transform="translate(87, 307) scale(1.15)">
+      <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"
+               fill="none" stroke="#0f172a" stroke-width="1.8" stroke-linejoin="round" />
+    </g>
+    <!-- Degree Label -->
+    <text x="140" y="310" class="axis-label" font-size="13" fill="#475569">180°</text>
+    <!-- Value -->
+    <text x="140" y="338" class="val-text" font-size="25" fill="#0f172a">12</text>
+    <!-- Pill (38%) -->
+    <rect x="196" y="302" width="64" height="34" rx="17" fill="#e0f2fe" stroke="#bae6fd" stroke-width="1" />
+    <text x="228" y="325" class="pill-text" font-size="15" fill="#0284c7" text-anchor="middle">38%</text>
+  </g>
+
+</svg>

@@ -108,7 +108,7 @@
 <div align="center">
 
 <a href="https://ranjeetkumarguptabro-maker.github.io/ranjeet-contribution-workplace/">
-  <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/github-metrics-radar.png" alt="GitHub Metrics Radar Infographic" width="100%">
+  <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/github-metrics-radar.svg" alt="GitHub Metrics Radar Infographic" width="520">
 </a>
 
 </div>
