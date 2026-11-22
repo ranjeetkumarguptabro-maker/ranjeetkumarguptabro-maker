@@ -87,17 +87,24 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" width="200" alt="Introduction to Kubernetes (LFS158)">
+        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/kubernetes-lfs158.jpeg" width="180" alt="Introduction to Kubernetes (LFS158)">
       </a>
       <br>
       <b>Introduction to Kubernetes (LFS158)</b>
     </td>
     <td align="center" valign="top">
       <a href="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" width="200" alt="AWS Cloud Practitioner Essentials">
+        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/aws-cloud-practitioner.jpeg" width="180" alt="AWS Cloud Practitioner Essentials">
       </a>
       <br>
       <b>AWS Cloud Practitioner Essentials</b>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/python-kaggle.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/ranjeetkumarguptabro-maker/ranjeet-contribution-workplace/main/assets/certificates/python-kaggle.png" width="180" alt="Python (Kaggle)">
+      </a>
+      <br>
+      <b>Python (Kaggle)</b>
     </td>
   </tr>
 </table>
