@@ -72,7 +72,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/ranjeetkumarguptabro-maker/dataops-guardian">dataops-guardian</a></h3>
-      <p>Python automation toolkit for health checks, preflight validation, infrastructure testing, and CI pipelines.</p>
+      <p>A Python automation toolkit for DevOps health checks, infrastructure preflight validation, and automated CI testing. Built with Docker and GitHub Actions, with AWS, Elasticsearch, Kubernetes, monitoring, and backup automation integrations.</p>
       <p><b>Tech:</b> <code>Python</code> · <code>CI/CD</code> · <code>Health Monitoring</code> · <code>Preflight Checks</code></p>
     </td>
   </tr>
