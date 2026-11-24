@@ -68,7 +68,7 @@
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/ranjeetkumarguptabro-maker/retail-store-devops">retail-store-devops</a></h3>
       <p>End-to-End DevOps Project: AWS Retail Store Cloud Deployment with Docker, Terraform, Kubernetes EKS, GitHub Actions CI/CD, Prometheus &amp; Python Automation.</p>
-      <p><b>Tech:</b> <code>AWS</code> · <code>Kubernetes EKS</code> · <code>Terraform</code> · <code>Docker</code> · <code>CI/CD</code></p>
+      <p><b>Tech:</b> <code>AWS</code> · <code>Kubernetes EKS</code> · <code>Terraform</code> · <code>Docker</code> · <code>CI/CD</code> · <code>Prometheus</code> · <code>Grafana</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/ranjeetkumarguptabro-maker/dataops-guardian">dataops-guardian</a></h3>
